@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": 2,
+      "title": "Android AsyncTask Example",
+      "category": "Android2"
+    },
+    {
+      "title": "android",
+      "category": "android syancronous",
+      "id": 3
+    },
+    {
+      "title": "rtgh",
+      "category": "gfg",
+      "id": 4
+    }
+  ]
+}
